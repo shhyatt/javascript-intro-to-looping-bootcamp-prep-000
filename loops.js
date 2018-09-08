@@ -23,6 +23,9 @@ function doWhileLoop(array) {
     
   }
   
+  do {
+    
+  }
   
 }
 
